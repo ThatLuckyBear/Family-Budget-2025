@@ -5,3 +5,5 @@ List of features and functions that will determine the "completeness" of the pro
 
 
 # Stretch Functions
+- funds tracking 
+- trajectory tracking (setting financial goals and achieving them)
